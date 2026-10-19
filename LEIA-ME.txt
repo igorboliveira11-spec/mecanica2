@@ -1,0 +1,20 @@
+MECÂNICA NA PRÁTICA — PÁGINA DE BIO
+
+O projeto inclui a logo original e três botões: WhatsApp, e-mail e site oficial do SENAI.
+
+COMO ABRIR
+1. Extraia o ZIP.
+2. Abra a pasta mecanica_na_pratica_bio_final no VS Code.
+3. Abra index.html no navegador ou use a extensão Live Server.
+
+CONFIGURAR WHATSAPP
+No fim de index.html, preencha WHATSAPP_NUMBER com o número incluindo código do Brasil e DDD, somente números. Exemplo: 5511999999999.
+
+E-MAIL
+Já configurado para mecanicanapratica999@gmail.com. O botão mostra “Falar pelo e-mail”.
+
+SITE DO SENAI
+O botão abre https://www.portaldaindustria.com.br/senai/
+
+PUBLICAÇÃO
+É uma página estática: index.html fica na raiz do projeto e não exige comando de build.
